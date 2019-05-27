@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Электронная почта</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">ВОЙТИ</string>
+    <string name="toolbar_title">Авторизация</string>
+    <string name="txt_create">СОЗДАТЬ</string>
+
+    <string name="txt_password_rule">Пароль - должен составлять минимум 6 символов, должен обязательно содержать минимум 1 строчную букву, 1 заглавную, и 1 цифру</string>
+    <string name="message_empty_email">Введите электронную почту</string>
+    <string name="message_not_valid_email">Введен неверный формат электронной почты</string>
+    <string name="message_empty_password">Введите пароль</string>
+
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
